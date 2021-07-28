@@ -8,7 +8,7 @@ package store;
 
 /**
  *
- * @author Vanisri Kirubakaran
+ * @author Pavithra
  */
 public class Bill {
       
